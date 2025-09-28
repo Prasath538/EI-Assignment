@@ -1,0 +1,1 @@
+public enum OrderStatus {CREATED,PROCESSING,PAID,COMPLETED,FAILED}
